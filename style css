@@ -1,4 +1,4 @@
-document {
+body {
     color : red;
     background-color: black;
     color:blue   ; font-size:14px;
