@@ -7,12 +7,14 @@ body {
 <div class="col-size"> {
 <div class="vert-center">
   <p>Texte centré verticalement dans un carré</p>
+  color : blue;
 <div>
 </div>
 
 <div class="col-size">
 <div class="vert-center">
   <p>Texte 2 centré verticalement dans un carré</p>
+  color: blue ;
 <div>
 </div>
 }
