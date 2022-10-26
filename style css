@@ -4,23 +4,11 @@ body {
     color:blue   ; font-size:14px;
 }
 
-<div> class="col-size"> {
-<div class="vert-center">
-  width : 50 px:
-  height: 50 px;
-  <p>Texte centré verticalement dans un carré</p>
-  color : blue;
-<div>
-</div>
+carre {
+  width : 200px;
+  height:200px;
+  background: black 
 
-<div> class="col-size">
-<div class="vert-center">
-  width : 50 px;
-  height: 50 Px;
-  <p>Texte 2 centré verticalement dans un carré</p>
-  color: blue ;
-<div>
-</div>
 }
 
 
