@@ -7,11 +7,16 @@ body {
 carre {
   width : 200px;
   height:200px;
-  background: black ;
+  background: rgb(204, 51, 163) ;
 
 }
 
+carre 2 {
+  width : 200px;
+  height:200px;
+  background: rgb(204, 51, 163)
 
+}
 
 
 
