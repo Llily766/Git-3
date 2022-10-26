@@ -4,16 +4,16 @@ body {
     color:blue   ; font-size:14px;
 }
 
-carre {
+.carre {
   width : 200px;
-  height:200px;
+  height: 200px;
   background: rgb(204, 51, 163) ;
 
 }
 
-carre 2 {
+.carre2 {
   width : 200px;
-  height:200px;
+  height: 200px;
   background: rgb(204, 51, 163)
 
 }
