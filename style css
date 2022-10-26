@@ -3,3 +3,16 @@ body {
     background-color: black;
     color:blue   ; font-size:14px;
 }
+<div class="col-size">
+<div class="vert-center">
+  <p>Texte centré verticalement dans un carré</p>
+<div>
+</div>
+}
+
+
+
+
+
+
+
