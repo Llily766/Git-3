@@ -1,21 +1,22 @@
 body {
-    color : red;
-    background-color: black;
-    color:blue   ; font-size:14px;
+  color : red;
+  background-color: beige;
+  color:blue   ; font-size:14px;
 }
 
 .carre {
-  width : 200px;
-  height: 200px;
-  background: rgb(204, 51, 163) ;
-
+width : 50px;
+height: 800px;
+background: black;
+margin : 30px;
+right: 100px;
 }
-
 .carre2 {
-  width : 200px;
-  height: 200px;
-  background: rgb(204, 51, 163)
-
+width :200px;
+height:800px;
+margin :30 px
+background : black ;
+left : 100 px;
 }
 
 
