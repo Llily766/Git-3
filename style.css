@@ -5,13 +5,13 @@ body {
 }
 
 .carre {
-  length : 100 px;
-  height : 100 px;
-  color : black ;
+  length = 100 px;
+  height = 100 px;
+  color = black ;
 
 }
 .carrea{
-  length=100 px
+  length = 100 px
   right = 30 px
  height = 100 px
 color = black 
