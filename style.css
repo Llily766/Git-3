@@ -5,19 +5,12 @@ body {
 }
 
 .carre {
-width : 50px;
-height: 800px;
-background: black;
-margin : 30px;
-right: 100px;
+  lenght: 100px
+  height : 100
+  color : black 
+
 }
-.carre2 {
-width :200px;
-height:800px;
-margin :30 px;
-background : black ;
-left : 100 px;
-}
+
 
 
 
