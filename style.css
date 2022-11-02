@@ -4,7 +4,7 @@ body {
   color:blue   ; font-size:14px;
 }
 
-.carrea {
+.squarea {
   width: 50 px;
   left : 30 px;
   height : 50 px;
@@ -16,7 +16,7 @@ body{
   align-items: center; 
 }
  
- .carre {
+ .square {
   right : 50 px;
   width : 50px;
   height : 50 px;
