@@ -1,28 +1,25 @@
 body {
   color : red;
   background-color: rgba(220, 245, 231, 0.592);
-  color:blue   ; font-size: 20px;
+  color:blue   ; font: size 20px;
 }
 
 .carrea {
-  width: 100px;
+  width: 50px;
   left : 50px;
-  height : 120px;
+  height : 75px;
   background-color : rgb(50, 147, 168) ;
 }
-
 
 body{
   text-align: center; 
 }
  
  .carre {
-  height : 80px;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 70px;
-  background-color : rgb(180, 30, 30) ;
+  right : 50px;
+  width : 50px;
+  height : 75px;
+  background-color : rgb(30, 180, 118) ;
 
 }
 
