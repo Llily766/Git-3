@@ -1,0 +1,32 @@
+body {
+  color : red;
+  background-color: rgba(220, 245, 231, 0.592);
+  color:blue;
+  font-size:  40px;
+}
+
+.carrea {
+  width: 100px;
+  margin-left : 50px;
+  height : 100px;
+  background-color : rgb(50, 147, 168) ;
+}
+
+body{
+  text-align: center; 
+}
+ 
+ .carre {
+  height : 75px;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color : rgb(180, 30, 30) ;
+
+}
+
+p{
+  color : black
+}
+
+
