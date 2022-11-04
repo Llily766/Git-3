@@ -5,23 +5,14 @@ body {
   font-size:  40px;
 }
 
-.carrea {
-  width: 50px;
-  margin-left : 100px;
-  height : 50px;
-  background-color : rgb(50, 147, 168) ;
+
 }
 
 body{
   text-align: center; 
 }
  
- .carre {
-  height : 50px;
-  width: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  background-color : rgb(180, 30, 30) ;
+ 
 
 }
 
