@@ -6,7 +6,7 @@ body {
 }
 
 .carrea {
-  width: 100px;
+  width: 50px;
   margin-left : 50px;
   height : 100px;
   background-color : rgb(50, 147, 168) ;
@@ -17,7 +17,7 @@ body{
 }
  
  .carre {
-  height : 75px;
+  height : 50px;
   width: 100px;
   margin-left: auto;
   margin-right: auto;
