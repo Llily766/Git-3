@@ -2,13 +2,13 @@ body {
   color : red;
   background-color: rgba(220, 245, 231, 0.592);
   color:blue;
-  font-size:  40px;
+  font-size:  40px;}
 
 .carre {
   width : 50 px;
-  background-color: black ;
-  height : 50 px;
-  left: 50 px;
+  background-color : black ;
+  height : 100 px;
+  left : 50 px;
 }
 .carrea {
   width : 50px;
