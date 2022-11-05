@@ -3,21 +3,17 @@ body {
   background-color: rgba(220, 245, 231, 0.592);
   color:blue;
   font-size:  40px;
+
+.carre {
+  width : 50 px;
+  background-color: black ;
+  height : 50 px;
+  left: 50 px;
 }
-
-
-
-
-body{
-  text-align: center; 
+.carrea {
+  width : 50px;
+  background-color: blue;
+  height: 100 px;
+  right: 50 px;
 }
- 
- 
-
-
-
-p{
-  color : black
-}
-
 
