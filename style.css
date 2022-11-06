@@ -9,12 +9,13 @@ body {
   width : 70 px;
   background-color : black ;
   height : 50 px;
-  left : 50 px;
+  
 }
 .carrea {
   width : 50px;
   background-color: blue;
   height: 50 px;
   right: 50 px;
+  border-radius: 50%
 }
 
