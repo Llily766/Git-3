@@ -6,18 +6,11 @@ body {
 }
 
 .carre{
-  width : 200px;
+  width : 300px;
   background-color : black ;
   height : 50px;
-  
-  
-}
-.carrea {
-  width :100px;
-  background-color : blue ;
-  height : 50px;
-  right: 50px;
-  border-radius: 50%;
+
+
 }
 
 .nav li {
@@ -32,6 +25,7 @@ border: 1px solid black;
 
 .h1{
   text-align: center
+
 }
 
 
