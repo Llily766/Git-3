@@ -11,10 +11,11 @@ body {
   height : 50px;
 }
 
-.nav li {
-display: inline-block;
+
+nav li {
+
 width: 150px;
-height: 150px;
+
 line-height: 50px;           
 text-align: center;
 border: 1px solid black;
@@ -24,5 +25,14 @@ border: 1px solid black;
   text-align: center
 
 }
+nav{ 
 
+  background-color: black;
+  color : white
+; 
+}
+
+nav ul {
+  display: flex ;
+}
 
