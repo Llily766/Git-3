@@ -52,7 +52,7 @@ li {
       list-style: none;
       line-height:44px;
       float:left;
-      background-color:#64abfb;
+      background-color:black;
     }
     nav ul li a {
       color:#FFF;
@@ -76,5 +76,4 @@ li {
           nav ul li:hover ul li {
             float:none;
             }
-            li>a:after {content: ' »';}
-            li>a:only-child:after { content: ''; }
+           
