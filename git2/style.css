@@ -1,0 +1,85 @@
+body {
+  color : rgb(26, 2, 2);
+  background-color: rgba(220, 245, 231, 0.592);
+  color:blue;
+  font-size: 40px;
+}
+
+.carre{
+  width : 300px;
+  background-color : black ;
+  height : 35px
+}
+
+
+nav li {
+
+width: 150px;
+
+line-height: 50px;           
+text-align: center;
+border: 1px solid black;
+}
+.h1 {
+  text-align: center
+
+
+}
+
+nav{ 
+
+  background-color: black;
+  color : white
+; text-align: center;
+}
+
+nav ul {
+  display: flex ;
+}
+
+li {
+  list-style:none !important; 
+  color:#FFF;
+  padding:10px;
+  font-size:20px;
+  text-decoration:none;
+   }
+  nav ul {
+    background-color:black;
+    padding:0;
+    margin:0;
+    }
+    nav ul li {
+      list-style: none;
+      line-height:44px;
+      float:left;
+      background-color:black;
+    }
+    nav ul li a {
+      color:#FFF;
+      padding:10px;
+      font-size:20px;
+      text-decoration:none;
+      margin:30px
+      text-align: center
+      }
+      li a:hover {
+        border-bottom:3px #FFF solid;
+        
+        }
+       nav ul li ul { 
+          display:none; 
+          }  
+          nav ul li:hover ul { /* Affiche la dropNav au survol de la souris avec la class .drop */
+            z-index:99999;
+            display:list-item !important;
+            position:absolute;
+            margin-top:5px;
+            margin-left:-10px;
+          }   
+          nav ul li:hover ul li {
+            float:none;
+            }
+}
+
+
